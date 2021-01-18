@@ -1,3 +1,3 @@
 #/usr/bin/python
 
-print('testGitPussssssssh')
+print('test Jenkinsfile automation')
