@@ -1,3 +1,3 @@
 #/usr/bin/python
 
-print('test Jenkinsfile automation')
+print('test Jenkinsfile automations')
